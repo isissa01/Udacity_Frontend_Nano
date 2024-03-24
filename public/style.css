@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    padding:10px;
+    margin:0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1 { font-size:2em;color: red; }
+p{
+    color: purple;
+    font-size: 24px;
+}
